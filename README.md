@@ -59,11 +59,11 @@ The below graphs show a comparative analysis of training performance under diffe
 
 1. Training Accuracy
 
-![Training Accuracy](https://github.com/radonys/Dog-Breed-Classification/blob/master/graphs/Training_Accuracies.png "Training Accuracy")
+![Training Accuracy](https://github.com/radonys/Dog-Breed-Classification/blob/master/graphs/Training_Loss.png "Training Accuracy")
 
 2. Training Loss
 
-![Training Loss](https://github.com/radonys/Dog-Breed-Classification/blob/master/graphs/Training_Loss.png "Training Loss")
+![Training Loss](https://github.com/radonys/Dog-Breed-Classification/blob/master/graphs/Training_Accuracies.png "Training Loss")
 
 ### Evaluation Results
 
